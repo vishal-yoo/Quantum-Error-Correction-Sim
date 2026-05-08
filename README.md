@@ -10,6 +10,6 @@ This project implements a **3-Qubit Repetition Code** using the **Qiskit** frame
 * **Interactive Diagnostic:** Features a manual mode where the user can "sabotage" a specific qubit to observe the decoder’s recovery process.
 
 ## Performance Analysis
-![Comparison Graph](image_46eb95.png)
+![Comparison Graph](image.png)
 
 The graph above visualizes the **Quantum Threshold**. By sweeping error probabilities, we prove that the protected system maintains near-100% success rates even when physical qubits are failing.
